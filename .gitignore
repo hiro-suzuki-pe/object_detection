@@ -1,0 +1,7 @@
+data
+weights
+data/VOCdevkit/VOC2012/Annotations
+data/VOCdevkit/VOC2012/ImageSets
+data/VOCdevkit/VOC2012/JPEGImages
+data/VOCdevkit/VOC2012/SegmentationClass
+data/VOCdevkit/VOC2012/SegmentationObject
